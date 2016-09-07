@@ -1,6 +1,6 @@
 # sublim-config
 
-Config sublim text for Mac
+Config sublim text 3 for Mac
 
 - packages
 - snippets
