@@ -1,0 +1,12 @@
+[
+	
+		{"keys": ["ctrl+shift+s"],"command": "auto_save"},
+		{"keys": ["super+shift+d"], "command": "duplicate_line" },
+	 	{"keys": ["super+shift+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"}},
+	 	{"keys": ["super+up"], "command": "swap_line_up" },
+	 	{"keys": ["super+down"], "command": "swap_line_down"},
+	 	{ "keys": ["super+forward_slash"], "command": "toggle_comment", "args": { "block": false } },
+		{ "keys": ["super+alt+forward_slash"], "command": "toggle_comment", "args": { "block": true } }
+
+	 
+]

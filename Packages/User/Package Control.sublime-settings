@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoCompleteJS",
+		"Babel",
+		"Better Completion",
+		"BracketHighlighter",
+		"Emmet",
+		"FileHeader",
+		"Handlebars",
+		"Header Creator",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JSX",
+		"LESS",
+		"Package Control",
+		"ReactJS",
+		"SCSS",
+		"Tag"
+	]
+}
