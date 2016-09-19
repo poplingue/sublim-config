@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Agila Theme",
 		"auto-save",
 		"AutoCompleteJS",
 		"Babel",
@@ -12,6 +13,7 @@
 		"BracketHighlighter",
 		"Emmet",
 		"FileHeader",
+		"Golden Dragon Color Scheme",
 		"Handlebars",
 		"Header Creator",
 		"HTML-CSS-JS Prettify",
@@ -20,7 +22,9 @@
 		"LESS",
 		"Package Control",
 		"ReactJS",
+		"Reindent on save",
 		"SCSS",
-		"Tag"
+		"Tag",
+		"Theme - Soda"
 	]
 }

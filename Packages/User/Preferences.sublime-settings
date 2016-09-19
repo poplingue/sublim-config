@@ -1,6 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"command": "auto_save",
+	"color_scheme": "Packages/brogrammer-theme-master/brogrammer.tmTheme",
 	"font_size": 13,
 	"ignored_packages":
 	[
@@ -11,5 +10,7 @@
 		"ctrl+shift+s"
 	],
 	"save_on_focus_lost": true,
-	"word_wrap": true
+	"theme": "Soda Dark 3.sublime-theme",
+	"word_wrap": true,
+	"tab_size": 2
 }
